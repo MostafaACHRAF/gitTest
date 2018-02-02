@@ -23,5 +23,3 @@ jjjjjjjjjjjjjjj
 jjnnnn
 
 .........
-
-jjnnnn
