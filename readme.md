@@ -2,14 +2,29 @@ hello world`
 
 hello fahd
 
+hello Khaled
+
+gggg
+
+gfhfhfgfhg
 
 hello khalid
 
+hhgfhgfdhg
+
+last conflict
+
 held
-<<<<<<< HEAD
+
 hhgfhgfdhg
 modif by Fahd on branche 2
-=======
 hhggg
->>>>>>> 15403d136d922e394390d64c0449d8b03f2dc9d6
 vvvvvvvvvvvvvvvvvvvvvvv
+
+hhggg
+
+jjjjjjjjjjjjjjj
+
+jjnnnn
+
+
